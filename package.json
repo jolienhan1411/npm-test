@@ -1,6 +1,6 @@
 {
   "name": "nhantest",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "this is a testing package",
   "main": "helloworld.js",
   "scripts": {
